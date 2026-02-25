@@ -2,11 +2,15 @@
 🌟 GitHub Profile README – by Ghiles Ouali
 -->
 
-# 👋 Hi there, I'm Ghiles Ouali  
+# 👋 Hi, I'm Ghiles Ouali
 
-💻 DevOps Engineer & Computer Science Student at **ESTIN**  
-🚀 Passionate about building **scalable, automated, and secure systems** that combine **DevOps**, **IoT**, and **AI**  
+💻 **DevOps Engineer & Computer Science Student @ ESTIN**  
+🚀 Passionate about building **scalable, automated, and secure systems** with **DevOps**, **IoT**, and **AI**  
 🔒 Always learning and experimenting with new technologies to improve deployment workflows and system reliability  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&color=00ff00&center=true&vCenter=true&width=600&lines=DevOps+%26+Cloud+%7C+Backend+%7C+IoT+%26+AI+%7C+Cybersecurity" alt="Typing SVG">
+</p>
 
 ---
 
@@ -29,34 +33,36 @@ TryHackMe Learner • Network Analysis • Web Testing • OWASP Top 10
 
 ## 🚀 Featured Projects
 
-### 🏟️ [Ticketify](https://github.com/ghilesouali/ticketify)
-A smart stadium ticket booking platform built with **Django + DRF + PostgreSQL + Docker**
-
-### 🤖 [Smart DataCenter IoT](https://github.com/ghilesouali/iot-energy-system)
-An IoT-based system for monitoring energy and security in data centers using **ESP32 + REST API + MQTT + AI**
-
-### ⚙️ [DevOps CI/CD Pipeline](https://github.com/ghilesouali/devops-pipeline-demo)
-A fully automated **CI/CD deployment pipeline** with **Jenkins, Docker, and Kubernetes**
-
-### 🧠 [CTF Learning Roadmap](https://github.com/ghilesouali/ctf-learning-map)
-A complete roadmap for learning **Cybersecurity & Capture The Flag (CTF)** from beginner to advanced
+| Project | Description | Tech Stack | Link |
+|--------|-------------|-----------|------|
+| 🏟️ **Ticketify** | Smart stadium ticket booking platform | Django + DRF + PostgreSQL + Docker | [View](https://github.com/ghilesouali/ticketify) |
+| 🤖 **Smart DataCenter IoT** | Energy & security monitoring for data centers | ESP32 + REST API + MQTT + AI | [View](https://github.com/ghilesouali/iot-energy-system) |
+| ⚙️ **DevOps CI/CD Pipeline** | Fully automated CI/CD pipeline | Jenkins, Docker, Kubernetes | [View](https://github.com/ghilesouali/devops-pipeline-demo) |
+| 🧠 **CTF Learning Roadmap** | Cybersecurity & CTF roadmap | Beginner → Advanced | [View](https://github.com/ghilesouali/ctf-learning-map) |
 
 ---
 
 ## 📊 GitHub Stats
 
-![Ghiles's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghilesouali&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghilesouali&layout=compact&theme=tokyonight)  
-![Profile views](https://komarev.com/ghpvc/?username=ghilesouali&color=blue)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ghilesouali&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghilesouali&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ghilesouali&color=blue" alt="Profile views" />
+</p>
 
 ---
 
 ## 🌍 Connect With Me
-📫 [LinkedIn](https://www.linkedin.com/in/ghilesouali)  
-📧 ghiles.ouali.dev@gmail.com  
-🌐 [GitHub](https://github.com/ghilesouali)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghilesouali)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghiles.ouali.dev@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ghilesouali)
 
 ---
 
-### ✨ “DevOps is not about tools — it’s about culture, automation, and continuous improvement.”  
+### ✨ Quote
+> “DevOps is not about tools — it’s about culture, automation, and continuous improvement.”  
 > — Ghiles Ouali
